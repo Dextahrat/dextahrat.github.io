@@ -1,1 +1,12 @@
 google.com, pub-3317838603724107, DIRECT, f08c47fec0942fa0
+33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+aceex.io, 1926, RESELLER, b1cf3c874d5c6682
+adform.com, 716, RESELLER
+adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+admanmedia.com, 2037, RESELLER
+admanmedia.com, 2153, RESELLER
+admanmedia.com, 2242, RESELLER
+admanmedia.com, 990, RESELLER
+advertising.com, 82632, RESELLER
+adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d

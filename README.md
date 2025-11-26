@@ -8,7 +8,7 @@ https://dextahrat.github.io/
 ## Content
 - Homepage with game information and navigation
 - Privacy Policy page
-- Google AdMob configuration (app-ads.txt)
+- Google AdMob configuration (App-ads.txt)
 
 ## Local Development
 ```bash
